@@ -1,0 +1,177 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Blanch-Caps
+FamilyName:Blanch
+StyleName:Caps
+MenuName:Blanch Caps
+StyleBits:0
+WeightClass:410
+WidthClass:5
+AngleClass:0
+FullName:Blanch Caps
+WritingScript:Roman
+OutlineFileName:\Blanch-Caps.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:25528
+FileModTime:1334833162
+NameArray:0,Mac,18,Blanch Caps
+NameArray:0,Mac,4,Blanch Caps
+NameArray:0,Win,1,Blanch Caps
+NameArray:0,Win,16,Blanch
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+MenuName:FontAwesome
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FontAwesome
+WritingScript:Roman
+OutlineFileName:\FontAwesome.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:134808
+FileModTime:1482425434
+NameArray:0,Mac,4,FontAwesome
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Roman
+FamilyName:Helvetica Neue
+StyleName:55 Roman
+MenuName:Helvetica 55 Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica 55 Roman
+WritingScript:Roman
+OutlineFileName:\HelveNeuRom
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28348
+FileModTime:793902030
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Roman
+OutlineFileName:\HelveticaNeue-Roman
+ResourceID:14770
+MacStyle:0
+FileLength:6696
+FileModTime:1440763080
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Bold
+FamilyName:Proxima Nova
+StyleName:Bold
+MenuName:Proxima Nova Rg
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Proxima Nova Bold
+WritingScript:Roman
+OutlineFileName:\ProximaNova-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:63808
+FileModTime:1172758164
+NameArray:0,Mac,4,Proxima Nova Bold
+NameArray:0,Win,1,Proxima Nova Rg
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Regular
+FamilyName:Proxima Nova
+StyleName:Regular
+MenuName:Proxima Nova Rg
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Proxima Nova
+WritingScript:Roman
+OutlineFileName:\ProximaNova-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:62892
+FileModTime:1172758170
+NameArray:0,Mac,18,Proxima Nova Regular
+NameArray:0,Mac,4,Proxima Nova
+NameArray:0,Win,1,Proxima Nova Rg
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Bold
+FamilyName:Roboto
+StyleName:Bold
+MenuName:Roboto
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Roboto Bold
+WritingScript:Roman
+OutlineFileName:\Roboto-Bold.ttf
+DataFormat:sfntData
+FileLength:163448
+FileModTime:1322572616
+NameArray:0,Mac,18,Roboto Bold
+NameArray:0,Mac,4,Roboto Bold
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Regular
+FamilyName:Roboto
+StyleName:Regular
+MenuName:Roboto
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Roboto Regular
+WritingScript:Roman
+OutlineFileName:\Roboto-Regular.ttf
+DataFormat:sfntData
+FileLength:158604
+FileModTime:1322572618
+NameArray:0,Mac,18,Roboto Regular
+NameArray:0,Mac,4,Roboto Regular
+NameArray:0,Win,1,Roboto
+%EndFont
+
